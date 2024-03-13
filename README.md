@@ -1,6 +1,7 @@
 # PDF Chatbot with Streamlit
 This is a simple chatbot application designed to interact with PDF files. 
 It uses Streamlit for the user interface and leverages various libraries for PDF processing and natural language understanding.
+The main code is inspired from https://github.com/rohankuldhar/Chat-with-multiple-PDFs, with a little change I deployed it.
 
 ## Features
 `PDF Parsing`: The bot can read and extract text from PDF files using the PyPDF2 library.
@@ -22,6 +23,9 @@ bash
 Copy code
 `streamlit run app.py`
 Access the application through your browser at the provided URL.
+
+## Version
+V.1.0.2
 
 ## Requirements
 streamlit
